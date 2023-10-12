@@ -1,0 +1,8 @@
+#GrapheCompletDesAdresses
+5 s
+depot marron rouge verte mauve
+depot 4 marron rouge verte mauve
+marron 4 depot rouge verte mauve
+rouge 4 depot marron verte mauve
+verte 4 depot marron rouge mauve
+mauve 4 depot marron rouge verte

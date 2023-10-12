@@ -1,0 +1,20 @@
+#GrapheRoutierSansMetro
+17 s
+a b c d e f g h i j k l depot marron rouge verte mauve
+a 3 b depot marron
+b 2 a c
+c 3 b f d
+d 3 c e verte
+e 2 d f
+f 3 c e g
+g 3 f h i
+h 2 g j
+j 3 h i rouge
+i 3 g j k
+k 2 i mauve
+l 3 rouge mauve verte
+depot 1 a
+marron 1 a
+rouge 2 j l
+mauve 2 k l
+verte 2 l d
